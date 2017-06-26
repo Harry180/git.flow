@@ -1,0 +1,12 @@
+{
+  "name": "git.flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gitgraph.js": "^1.11.3"
+  },
+  "devDependencies": {},
+  "author": "Łukasz Charubin",
+  "license": "MIT"
+}
